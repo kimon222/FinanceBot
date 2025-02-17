@@ -27,15 +27,26 @@ The chatbot interface is interactive and includes a background stock market imag
 
 ### How to Run Locally
 
-**Clone this repository** to your local machine:
+## Python Version
+
+This project was developed and tested with Python 3.10.5. Please ensure that you're using this version or a compatible version for optimal performance.
+
+You can check your Python version with the following command:
+
+```bash
+python --version
+```
+
+1. **Clone this repository** to your local machine:
 ```bash
 git clone https://github.com/yourusername/finance-chatbot.git
 cd finance-chatbot
 ```
 
+
 2. **Install required dependencies**:
 ```bash
-pip install -r requirements.txt
+pip3 install openai gradio python-dotenv matplotlib Pillow requests
 ```
  
 3. **Set up your OpenAI API key**:
@@ -46,7 +57,7 @@ OPENAI_API_KEY=your-openai-api-key-here
  
 4. **Run the application**:
 ```bash
-python app.py
+python3 app.py
 ```
 
 5. Open the application in your browser at `http://127.0.0.1:7876/`.
