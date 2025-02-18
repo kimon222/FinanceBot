@@ -72,7 +72,3 @@ The chatbot uses the GPT-4 model to simulate a financial advisor that provides i
 - **Charts/Graphs**: Add features that can generate visual representations (like line charts or bar graphs) of stock performance.
 - **Enhanced User Experience**: Improve conversational UI/UX and add more personal features (like user preferences).
 - **Predictions with ML**: Integrate machine learning models to better predict stock trends.
-
-
-### Side Project Notes
-This chatbot serves as a personal project for learning and experimenting with OpenAI's capabilities in the financial domain. It might be simple for now, but the potential for scalability and feature expansion is high!
