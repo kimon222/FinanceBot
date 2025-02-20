@@ -1,5 +1,7 @@
 ## Finance Chatbot (Side Project)
 
+![Tired Penguin](./tired_penguin.gif)
+
 ### ⚠️ Disclaimer: This chatbot is for demonstration and educational purposes only. It provides a "percent chance" of stock performance, but these are estimates and should not be used as actual investment advice.
  
 ### Overview
